@@ -1,3 +1,3 @@
-# cspire
+# Flex Integrator
 
-Code base for synth-cspire
+Code base for Flex Integrator app exchange app
